@@ -49,7 +49,7 @@ function NavBar() {
           <div className="icons">
             <SearchIcon></SearchIcon>
             <PersonOutlineOutlinedIcon />
-            <div className="cart">
+            <div className="cartIcon">
               <ShoppingCartOutlinedIcon />
               <span>0</span>
             </div>
